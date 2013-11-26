@@ -1,4 +1,20 @@
 <?php
+ /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  * File:    serverSearch.php 
+  * 
+  * Author:   Carmine Valentino; Dylan Pierce; Josh Hutchins
+  * Date:     November 18 2013   
+  * Course:   INFO 153 
+  * 
+  * Summary of File: 
+  * 
+  *   Takes user input (email) and queries database to find a match
+  *   if match is found returns associated qr code to the user
+  *   
+  *
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  */
+
 require('db.php');
 require('connect.php');
 

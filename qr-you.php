@@ -1,4 +1,20 @@
 <?
+ /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  * File:    qr-you.php 
+  * 
+  * Author:   Carmine Valentino; Dylan Pierce; Josh Hutchins
+  * Date:     November 18 2013   
+  * Course:   INFO 153 
+  * 
+  * Summary of File: 
+  * 
+  *   mobile formated page. When scanned, this page is dynamically
+  *   created. 
+  *   
+  *
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  */
+
 require('db.php');
 require('connect.php');
 

@@ -1,4 +1,20 @@
 <?php
+ /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  * File:    server.php 
+  * 
+  * Author:   Carmine Valentino; Dylan Pierce; Josh Hutchins
+  * Date:     November 18 2013   
+  * Course:   INFO 153 
+  * 
+  * Summary of File: 
+  * 
+  *   Insert member into member db. Uploads picture to server dir
+  *   Writes link to db. Any handled values are written. script
+  *   returns qr code embeded with member id and link to host
+  *
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  */
+
 require('db.php');
 require('connect.php');
 

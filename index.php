@@ -1,4 +1,21 @@
 <?php
+ /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  * File:    index.php 
+  * 
+  * Author:   Carmine Valentino; Dylan Pierce; Josh Hutchins
+  * Date:     November 18 2013   
+  * Course:   INFO 153 
+  * 
+  * Summary of File: 
+  * 
+  *   Many view page. Displays all page info here. Communicates with 
+  *   controllers through ajax commands.
+  *   
+  *   
+  *
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  */
+
 require('db.php');
 require('connect.php');
 ?>
